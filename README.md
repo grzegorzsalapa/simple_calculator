@@ -13,7 +13,7 @@ in case its format was validated as faulty.
 
 #### pycalculator_CLI
 
-    $ cli
+    $ calculator
 
 ### Requirements
 
