@@ -25,5 +25,5 @@ exclude = [
     ".gitignore",
     ".pytest_cache"
 ]
-#[project.scripts]
-#calculator = "calculator.cli"
+[project.scripts]
+calculator = "calculator.cli:cli"

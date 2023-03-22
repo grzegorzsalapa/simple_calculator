@@ -1,6 +1,6 @@
 from calculator import calculate, CalculationError
 
-if __name__ == "__main__":
+def cli():
     try:
         while True:
             exp_str = input("Give me some simple equation and press enter,"
@@ -15,3 +15,7 @@ if __name__ == "__main__":
 
     except KeyboardInterrupt:
         print("\rBye")
+
+
+if __name__ == "__main__":
+    cli()
