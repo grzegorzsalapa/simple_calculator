@@ -1,4 +1,3 @@
 pytest_cache
-venv_calc
+venv
 .idea
-dist
